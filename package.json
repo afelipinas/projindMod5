@@ -1,0 +1,23 @@
+{
+  "name": "projindmod5",
+  "version": "1.0.0",
+  "description": "Projeto Individual do Módulo 5 do curso de Desenvolvimento Web da Resilia Educação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afelipinas/projindMod5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afelipinas/projindMod5/issues"
+  },
+  "homepage": "https://github.com/afelipinas/projindMod5#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
