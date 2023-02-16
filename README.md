@@ -31,4 +31,4 @@ $ git clone https://github.com/afelipinas/projindMod5
 <hr>
 <h3>Segue abaixo como ficará o teste de execução do código no terminal:</h3>
 
-![image](https://raw.githubusercontent.com/afelipinas/myimages/main/execu%C3%A7%C3%A3o.PNG?token=GHSAT0AAAAAAB64JMABDAUC64V2FJC6FKBMY7OPBZQ)
+<img width="650px" src="./images/execução.PNG">
