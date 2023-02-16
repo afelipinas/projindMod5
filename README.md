@@ -5,5 +5,30 @@
 
 </h1>
 
-# projindMod5
-Projeto Individual do Módulo 5 do curso de Desenvolvimento Web da Resilia Educação
+<h3>Este projeto organiza as propriedades CSS digitadas pelo usuário em ordem alfabética.</h3>
+<hr>
+<p>O código foi construído em Javascript e quando executado ele solicita que sejam digitadas as propriedades. Para ver as já inseridas é necessário escrever o comando "mostrar" e para encerrar o laço de repetição digita-se o comando "sair".</p>
+<br><br>
+<h3 align="center"> Segue abaixo o código:</h3>
+<br>
+
+![image](https://raw.githubusercontent.com/afelipinas/myimages/main/linhacodigo1.PNG?token=GHSAT0AAAAAAB64JMAAWZLBZ36PY3OAQ2XGY7ONO7A)
+
+<hr>
+
+<p>Para realizar os testes da applicação, siga os seguintes passos:</p>
+<br>
+<h3>Clone o Repositório:</h3>
+
+ ```bash
+$ git clone https://github.com/afelipinas/projindMod5
+ ```
+
+<h3>Abra o Terminal e execute os seguintes códigos:</h3>
+
+![image](https://raw.githubusercontent.com/afelipinas/myimages/main/comandos.PNG?token=GHSAT0AAAAAAB64JMAB2YQGQIQPAQLYWY3WY7ON3TA)
+
+<hr>
+<h3>Segue abaixo como ficará o teste de execução do código no terminal:</h3>
+
+![image](https://raw.githubusercontent.com/afelipinas/myimages/main/execu%C3%A7%C3%A3o.PNG?token=GHSAT0AAAAAAB64JMABDAUC64V2FJC6FKBMY7OPBZQ)
