@@ -12,7 +12,7 @@
 <h3 align="center"> Segue abaixo o código:</h3>
 <br>
 
-![image](https://raw.githubusercontent.com/afelipinas/myimages/main/linhacodigo1.PNG?token=GHSAT0AAAAAAB64JMAAWZLBZ36PY3OAQ2XGY7ONO7A)
+<img width="900px" src="./images/linhacodigo1.PNG">
 
 <hr>
 
@@ -26,7 +26,7 @@ $ git clone https://github.com/afelipinas/projindMod5
 
 <h3>Abra o Terminal e execute os seguintes códigos:</h3>
 
-![image](https://raw.githubusercontent.com/afelipinas/myimages/main/comandos.PNG?token=GHSAT0AAAAAAB64JMAB2YQGQIQPAQLYWY3WY7ON3TA)
+<img width="450px" src="./images/comandos.PNG">
 
 <hr>
 <h3>Segue abaixo como ficará o teste de execução do código no terminal:</h3>
